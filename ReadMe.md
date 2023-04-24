@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Sou apaixonado por programação<br>🌱 Atualmente estudando Python<br>⚡ Interessado em estudar banco de dados
 
 
