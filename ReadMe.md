@@ -11,7 +11,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SpectorPrime&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
